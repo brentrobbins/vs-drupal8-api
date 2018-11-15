@@ -13,6 +13,7 @@ permissions:
   - 'access toolbar'
   - 'access user profiles'
   - 'administer account settings'
+  - 'administer blocks'
   - 'administer search'
   - 'cancel account'
   - 'change own username'
@@ -41,3 +42,4 @@ permissions:
   - 'view article revisions'
   - 'view own unpublished content'
   - 'view page revisions'
+  - 'view the administration theme'
