@@ -1,0 +1,13 @@
+uuid: 2671739b-bc40-4057-9151-f30e21883c83
+langcode: en
+status: true
+dependencies: {  }
+id: client
+label: Client
+weight: -8
+is_admin: null
+permissions:
+  - 'access user profiles'
+  - 'cancel account'
+  - 'change own username'
+  - 'use text format basic_html'

@@ -1,0 +1,43 @@
+uuid: bc786b64-efa9-477a-a267-473bd693a308
+langcode: en
+status: true
+dependencies: {  }
+id: manager
+label: Manager
+weight: -7
+is_admin: null
+permissions:
+  - 'access content overview'
+  - 'access in-place editing'
+  - 'access taxonomy overview'
+  - 'access toolbar'
+  - 'access user profiles'
+  - 'administer account settings'
+  - 'administer search'
+  - 'cancel account'
+  - 'change own username'
+  - 'create article content'
+  - 'create page content'
+  - 'create terms in tags'
+  - 'create url aliases'
+  - 'delete any article content'
+  - 'delete any page content'
+  - 'delete article revisions'
+  - 'delete own article content'
+  - 'delete own page content'
+  - 'delete page revisions'
+  - 'delete terms in tags'
+  - 'edit any article content'
+  - 'edit any page content'
+  - 'edit own article content'
+  - 'edit own page content'
+  - 'edit terms in tags'
+  - 'revert article revisions'
+  - 'revert page revisions'
+  - 'select account cancellation method'
+  - 'use advanced search'
+  - 'use text format basic_html'
+  - 'use text format full_html'
+  - 'view article revisions'
+  - 'view own unpublished content'
+  - 'view page revisions'
